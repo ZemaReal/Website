@@ -1,0 +1,17 @@
+@keyframes Anim {
+    10% {color: red;}
+    20% {margin: 100px; color: mediumaquamarine;}
+    30% {}
+}
+#h1 {
+    color: blue;
+    animation-name: Anim;
+    animation-iteration-count: infinite;
+    animation-duration: 750ms;
+}
+ #img {
+    border-radius: 25px;
+    outline-style: solid;
+    outline-color: black;
+    outline-width: 5px;
+}
